@@ -1,0 +1,21 @@
+{
+
+  "test_samples": 80,
+
+  "accuracy": 1.0,
+
+  "macro_f1": 1.0,
+
+  "frequencies_hz": [
+
+    18,
+
+    30,
+
+    45
+
+  ],
+
+  "data": "deterministic synthetic vibration signals"
+
+}

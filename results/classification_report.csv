@@ -1,0 +1,9 @@
+class,precision,recall,f1,support
+
+healthy,1.0,1.0,1.0,20
+
+inner_race,1.0,1.0,1.0,20
+
+outer_race,1.0,1.0,1.0,20
+
+imbalance,1.0,1.0,1.0,20

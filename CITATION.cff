@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using this metadata."
+title: "Bearing Vibration Diagnosis: Selected-Frequency Synthetic Baseline"
+type: software
+authors:
+  - family-names: Kandel
+    given-names: Nabin
+repository-code: "https://github.com/nabinkandel07/Bearing-Vibration-Diagnosis"
+version: 1.0.0
+date-released: 2026-09-08

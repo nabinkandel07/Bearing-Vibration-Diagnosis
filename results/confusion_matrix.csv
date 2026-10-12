@@ -1,0 +1,9 @@
+actual/predicted,healthy,inner_race,outer_race,imbalance
+
+healthy,20,0,0,0
+
+inner_race,0,20,0,0
+
+outer_race,0,0,20,0
+
+imbalance,0,0,0,20
